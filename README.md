@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**Miguelraafp/miguelraafp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src = "giphy.webp" width = "325px" align = "right">
 
-Here are some ideas to get you started:
+#  😎 Seja bem-vindo(a) ao meu GitHub! É bom ver você!
+ <div id="badges">
+  <a href = "https://github.com/miguelraafp">
+    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Bagde />
+  </a>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🐱‍👤 Fã de Souslike, música, séries e filmes.
+- 📒 3° do Ensino Médio
+- 🤖 Iniciante na Programação e estudando Python
